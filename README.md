@@ -81,9 +81,10 @@
 ## <img src="assets/img/top_projects.gif" width="35px"> **Top Projects -**
 
 [![Tipper](https://github-readme-stats.vercel.app/api/pin/?username=chronopio&repo=tipper&border_color=710044&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=710044)](https://github.com/chronopio/tipper)
+[![Pixl](https://github-readme-stats.vercel.app/api/pin/?username=chronopio&repo=pixl&border_color=710044&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=710044)](https://github.com/chronopio/pixl)
+[![Go-grep](https://github-readme-stats.vercel.app/api/pin/?username=chronopio&repo=go-grep&border_color=710044&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=710044)](https://github.com/chronopio/go-grep)
 [![Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=chronopio&repo=NFT-Marketplace&border_color=710044&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=710044)](https://github.com/chronopio/NFT-Marketplace)
-[![Swapper](https://github-readme-stats.vercel.app/api/pin/?username=chronopio&repo=Swapper&border_color=710044&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=710044)](https://github.com/chronopio/Swapper)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=chronopio&repo=Glassmorphism&border_color=710044&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=710044)](https://github.com/chronopio/Glassmorphism)
+
 
 <p align="left">
   <a href="https://github.com/chronopio?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-710044?style=for-the-badge&logo=github&logoColor=white"/></a>
