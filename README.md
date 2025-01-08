@@ -13,7 +13,7 @@
   <samp>
     <a href="mailto:joaquin.ayanezm@gmail.com">「 Email Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Venezuela</b> 」
+    「 I am a Web3 Rust developer from <b>Venezuela</b> 」
     <br>
     <br>
   </samp>
